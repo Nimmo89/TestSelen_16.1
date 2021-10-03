@@ -1,2 +1,1 @@
-# TestSelen_16.1
- 
+[![Build status](https://ci.appveyor.com/api/projects/status/cd6m8sa90v32x8p3?svg=true)](https://ci.appveyor.com/project/Nimmo89/testselen-16-1)
